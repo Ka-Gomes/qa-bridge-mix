@@ -1,4 +1,4 @@
-# QA Bridge Mix
+# 🎧 Bridge Mix - QA
 
 Este repositório contém a documentação de Quality Assurance (QA) do projeto **Bridge Mix**, um gerador de playlists baseado em IA.
 
